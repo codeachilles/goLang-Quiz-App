@@ -1,0 +1,102 @@
+[
+  {
+    "text": "What is the keyword to declare a variable with an initial value in Go?",
+    "options": ["var", "let", ":=", "const"],
+    "answer": ":="
+  },
+  {
+    "text": "Which keyword is used to define a new type in Go?",
+    "options": ["type", "struct", "class", "interface"],
+    "answer": "type"
+  },
+  {
+    "text": "What is the entry point for any Go program?",
+    "options": ["start", "main", "run", "entry"],
+    "answer": "main"
+  },
+  {
+    "text": "Which built-in function is used to get the length of a string, array, slice, or map?",
+    "options": ["size", "count", "length", "len"],
+    "answer": "len"
+  },
+  {
+    "text": "What is a 'goroutine'?",
+    "options": ["A heavy thread", "A lightweight thread of execution", "A function pointer", "A data structure"],
+    "answer": "A lightweight thread of execution"
+  },
+  {
+    "text": "Which package provides functions for formatted I/O?",
+    "options": ["io", "fmt", "os", "bufio"],
+    "answer": "fmt"
+  },
+  {
+    "text": "How do you declare a constant in Go?",
+    "options": ["let", "const", "final", "static"],
+    "answer": "const"
+  },
+  {
+    "text": "What is the zero value for a boolean type in Go?",
+    "options": ["0", "null", "undefined", "false"],
+    "answer": "false"
+  },
+  {
+    "text": "Which command is used to format Go code?",
+    "options": ["go format", "gofmt", "go fmt", "format go"],
+    "answer": "go fmt"
+  },
+  {
+    "text": "What is a 'slice' in Go?",
+    "options": ["A fixed-size array", "A dynamic array", "A linked list", "A map"],
+    "answer": "A dynamic array"
+  },
+  {
+    "text": "Which keyword is used to exit a loop prematurely?",
+    "options": ["exit", "return", "break", "continue"],
+    "answer": "break"
+  },
+  {
+    "text": "What is the purpose of the 'defer' keyword?",
+    "options": ["To delay execution", "To schedule a function call to be run after the function completes", "To handle errors", "To define a destructor"],
+    "answer": "To schedule a function call to be run after the function completes"
+  },
+  {
+    "text": "How do you handle errors in Go?",
+    "options": ["Using try-catch blocks", "By ignoring them", "By returning an error value", "Using exceptions"],
+    "answer": "By returning an error value"
+  },
+  {
+    "text": "What is a 'channel' in Go used for?",
+    "options": ["File I/O", "Network communication", "Communication between goroutines", "Database connections"],
+    "answer": "Communication between goroutines"
+  },
+  {
+    "text": "What does the 'make' function do?",
+    "options": ["Creates a new file", "Allocates memory for variables", "Initializes slices, maps, and channels", "Compiles the program"],
+    "answer": "Initializes slices, maps, and channels"
+  },
+  {
+    "text": "What is the name of Go's official package manager?",
+    "options": ["Gopm", "Glide", "Dep", "Go Modules"],
+    "answer": "Go Modules"
+  },
+  {
+    "text": "Which visibility model does Go use for exporting identifiers from a package?",
+    "options": ["public/private keywords", "Capitalization", "File-based", "Module-based"],
+    "answer": "Capitalization"
+  },
+  {
+    "text": "What is the term for a set of method signatures in Go?",
+    "options": ["class", "type", "struct", "interface"],
+    "answer": "interface"
+  },
+  {
+    "text": "Which command is used to run Go tests?",
+    "options": ["go run test", "go test", "go check", "go validate"],
+    "answer": "go test"
+  },
+  {
+    "text": "What is the file extension for Go source files?",
+    "options": [".golang", ".go", ".gs", ".src"],
+    "answer": ".go"
+  }
+] 
